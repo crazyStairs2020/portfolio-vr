@@ -1,0 +1,90 @@
+#page-body {
+  background-color: whitesmoke;
+}
+
+.headers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  text-align: left;
+}
+
+#page-body h1 {
+  font-size: 5em;
+  margin: auto;
+  line-height: 100px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+#page-body h2 {
+  font-size: 3.5em;
+  margin: auto;
+  line-height: 100px;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#page-body h3 {
+  font-size: 4em;
+  margin: auto;
+  line-height: 100px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+#page-body h4 {
+  font-size: 1.5em;
+  margin: auto;
+  line-height: 100px;
+  vertical-align: left;
+  text-align: left;
+}
+
+
+/* To center images */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.sketch-container {
+  display: flex;
+  align-items: right;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.user-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.persona-container {
+  /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.story-board-container {
+  /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+#story-board {
+  text-align: center;
+}
+
+/* For redesign goals outline */
+.outline-text {
+  /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+  resize: horizontal;
+  overflow: auto;
+}
