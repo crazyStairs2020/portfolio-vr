@@ -63,7 +63,7 @@
   justify-content: space-evenly;
 }
 
-.persona-container {
+.slides {
   /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
   display: flex;
   flex-wrap: wrap;
@@ -78,7 +78,7 @@
   text-align: center;
 }
 
-#story-board {
+#center {
   text-align: center;
 }
 
