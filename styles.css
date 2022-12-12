@@ -18,7 +18,7 @@
 }
 
 #page-body h2 {
-  font-size: 3.5em;
+  font-size: 2.5em;
   margin: auto;
   line-height: 100px;
   vertical-align: middle;
@@ -78,7 +78,7 @@
   text-align: center;
 }
 
-#center {
+.center {
   text-align: center;
 }
 
